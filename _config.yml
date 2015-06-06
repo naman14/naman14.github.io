@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Naman Dwivedi
+tagline:             Just a Blog
+url:                 http://naman-dwivedi.in
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Naman Dwivedi
+  url:               https://github.com/naman14
+  email:             namandwivedi14@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/naman14/naman14.github.io
