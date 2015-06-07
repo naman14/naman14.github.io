@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Naman Dwivedi
-tagline:             Just a Blog
+tagline:             naman14
 url:                 http://naman-dwivedi.in
 paginate:            1
 baseurl:             ""
@@ -28,3 +28,6 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/naman14/naman14.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive'}
