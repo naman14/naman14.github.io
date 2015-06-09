@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Naman Dwivedi
 tagline:             naman14
 url:                 http://naman-dwivedi.in
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
