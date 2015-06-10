@@ -122,6 +122,14 @@ There is also a library on Github([Transitions-Everywhere](https://github.com/an
 
 * A sample apk can be found on [Google Play](https://play.google.com/store/apps/details?id=com.naman14.playanimations&hl=en)
 
+--------
+     
+     
+**Posted by `Naman Dwivedi` on `09 Jun 2015`**
+
+**Tags-   `Android`  ,`UI`**
+
+
  
 
 

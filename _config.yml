@@ -9,7 +9,7 @@ title:               Naman Dwivedi
 tagline:             naman14
 url:                 http://naman-dwivedi.in
 paginate:            5
-baseurl:             ""
+avatar:              http://naman-dwivedi.in/images/naman.jpg
 
 # Assets
 #
@@ -23,6 +23,7 @@ author:
   name:              Naman Dwivedi
   url:               https://github.com/naman14
   email:             namandwivedi14@gmail.com
+  tagline:             naman14
 
 # Custom vars
 version:             1.0.0

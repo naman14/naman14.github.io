@@ -7,17 +7,18 @@
     <div class="wrapper-masthead">
         <div class="container">
             <header class="masthead clearfix">
+                
                 <div class="site-info">
-                    <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+                    <h1 class="site-name"><a href="{{ site.url }}/">{{ site.title }}</a></h1>
                     <p class="site-description">{{ site.tagline }}</p>
                 </div>
                 
                 <nav>
-                    <a href="{{ site.baseurl }}/">Blog</a>
-                    <a href="{{ site.baseurl }}/archive">Archive</a>
-                    <a href="{{ site.baseurl }}/about">About</a>
-                    <a href="{{ site.baseurl }}/projects">Projects</a>
-                    <a href="{{ site.baseurl }}/work">Work</a>
+                    <a href="{{ site.url }}/">Blog</a>
+                    <a href="{{ site.url }}/archive">Archive</a>
+                    <a href="{{ site.url }}/about">About</a>
+                    <a href="{{ site.url }}/projects">Projects</a>
+                    <a href="{{ site.url }}/work">Work</a>
                 </nav>
             </header>
         </div>
@@ -25,6 +26,7 @@
     
     <div id="main" role="main" class="container">
         {{ content }}
+        
         {% include comments.html %}
     </div>
     
