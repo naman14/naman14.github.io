@@ -2,6 +2,7 @@
 layout: post
 title: A look at the Transition framework of Android
 comments: true
+related: false
 permalink: transition-framework-android
 ---
 With all the animations being added in the Google Play apps, I was wondering how they were being used and then I found out the Transition Framework of Android. After looking a little deeper in it, I was able to create the animation being used in the Google play apps.
