@@ -14,7 +14,7 @@ As seen on AndroidPolice-
 
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.powermenu](https://play.google.com/store/apps/details?id=com.naman14.powermenu)
 
-Github - [https://github.com/MaterialPowerMenu](https://github.com/MaterialPowerMenu)
+Github - [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 
  
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=MaterialPowerMenu&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
@@ -33,7 +33,7 @@ A more detailed explanation about this project is available at-
 
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.playanimations](https://play.google.com/store/apps/details?id=com.naman14.playanimations)
 
-Github - [https://github.com/PlayAnimations](https://github.com/PlayAnimations)     
+Github - [https://github.com/naman14/PlayAnimations](https://github.com/naman14/PlayAnimations)     
  
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayAnimations&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
@@ -65,7 +65,7 @@ As seen on xda-developers.com-
 
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.stools](https://play.google.com/store/apps/details?id=com.naman14.stools)
 
-Github - [https://github.com/S-Tools](https://github.com/S-Tools)  
+Github - [https://github.com/naman14/S-Tools](https://github.com/naman14/S-Tools)  
  
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=S-Tools&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
@@ -79,6 +79,10 @@ This demo app uses a parallax header with Ken Burns Effect, a ViewPager and Frag
 
 Main credit for this goes to [kmshack](http://www.kmshack.kr) for the original Android-ParallaxHeaderViewPager demo app. I made this on top of that for supporting scrollviews easily.
 See kmshack's [Android-ParallaxHeaderViewPager lib on github](https://github.com/kmshack/Android-ParallaxHeaderViewPager)
+
+Google Play - [https://play.google.com/store/apps/details?id=com.naman14.newsstand](https://play.google.com/store/apps/details?id=com.naman14.newsstand)
+
+Github - [https://github.com/naman14/PlayNewsStandDemo](https://github.com/naman14/PlayNewsStandDemo) 
  
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayNewsStandDemo&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
