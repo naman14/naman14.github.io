@@ -1,7 +1,14 @@
 ---
 layout: page
-title: About
+title: 
 ---
+<center>
+<div class="github-card" data-github="naman14" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+</center>
+
+
 I am Naman Dwivedi mostly known on web with my username `naman14`.
 I am an Android developer and I like to work on Core and UI/UX development.
 I am an enthusiastic Open Source developer and most of my projects are open source.
@@ -17,5 +24,3 @@ I want to thank [Arnav Gupta](http://championswimmer.in) for giving me the oppor
 
 -------
 
-<div class="github-card" data-github="naman14" data-width="400" data-height="" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
