@@ -242,3 +242,9 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
    This should solve the scrolling problem when using RecyclerView with AndoridSlidingUpPanel.
 
    I also made a quick gist of modified `SlidingUpPanelLayout.java` -[https://gist.github.com/naman14/35d899ab45bf3ce836a8](https://gist.github.com/naman14/35d899ab45bf3ce836a8)
+
+   --------
+
+   **Posted by `Naman Dwivedi` on `03 July 2015`**
+
+   **Tags-   `Android`  ,`UI`  ,`AndroidSlidingUpPanel`**
