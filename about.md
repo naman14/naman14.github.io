@@ -14,7 +14,7 @@ I am an Android developer and I like to work on Core and UI/UX development.
 I am an enthusiastic Open Source developer and most of my projects are open source.
 Lately, I have been also contributing to CyanogenMod and AOSP in my free time.
 
-Currently pursuing BTech from Delhi College of Engineering and expectated to graduate in 2018.I am 17 years old and currently in 1st year of college.
+Currently pursuing BTech from Delhi College of Engineering and expectated to graduate in 2018.I am 18 years old and currently in 2nd year of college.
 
 I want to thank [Arnav Gupta](http://championswimmer.in) for giving me the opportunity to work on Android development related projects in College and helping me whenever required. And also a big thanks to all the folks at [Team OSC](https://github.com/teamOSC) for making me a part of such an incredible group of developers.
 
