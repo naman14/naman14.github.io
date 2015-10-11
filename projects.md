@@ -3,6 +3,20 @@ layout: page
 title: Projects
 ---
 
+#`Timber`
+
+Timber is a open source Music Player built for Android.
+It is one of the finest designed music player with more features being added on a regularly basis.
+
+Google Play - [https://play.google.com/store/apps/details?id=naman14.timber](https://play.google.com/store/apps/details?id=naman14.timber)
+
+Github - [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
+
+
+<iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=Timber&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=Timber&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+
 #`MaterialPowerMenu`
 
 This app was originally a demo of the CircularReveal animations which were introduced in Lollipop and was inspired by a GIF I saw on Google+ demonstarting the use of these animations to create an alternative Android Power Menu.After recieving many requests from user to support actual Reboot functionalities, I added Reboot,Power Off,Reboot to recovery,Reboot bootloader and reboot to safe mode with the help of superuser.On further requests,I also added Xposed framework support to override stock power menu with MaterialPowerMenu.
@@ -16,7 +30,7 @@ Google Play - [https://play.google.com/store/apps/details?id=com.naman14.powerme
 
 Github - [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 
- 
+
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=MaterialPowerMenu&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=MaterialPowerMenu&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
@@ -34,7 +48,7 @@ A more detailed explanation about this project is available at-
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.playanimations](https://play.google.com/store/apps/details?id=com.naman14.playanimations)
 
 Github - [https://github.com/naman14/PlayAnimations](https://github.com/naman14/PlayAnimations)     
- 
+
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayAnimations&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayAnimations&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
@@ -55,7 +69,7 @@ S Tools+ includes 6 different useful tools.These are-
 
 •Compass-A nice looking compass showing you the directions
 
-•Device Information - Find out information about your device like screen density and pixels. 
+•Device Information - Find out information about your device like screen density and pixels.
 
 I rewrote S Tools+ from scratch after Google introduced Material design guidelines and was one of the few apps at the time to follow Material Design guidelines.
 
@@ -66,7 +80,7 @@ As seen on xda-developers.com-
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.stools](https://play.google.com/store/apps/details?id=com.naman14.stools)
 
 Github - [https://github.com/naman14/S-Tools](https://github.com/naman14/S-Tools)  
- 
+
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=S-Tools&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=S-Tools&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
@@ -82,8 +96,8 @@ See kmshack's [Android-ParallaxHeaderViewPager lib on github](https://github.com
 
 Google Play - [https://play.google.com/store/apps/details?id=com.naman14.newsstand](https://play.google.com/store/apps/details?id=com.naman14.newsstand)
 
-Github - [https://github.com/naman14/PlayNewsStandDemo](https://github.com/naman14/PlayNewsStandDemo) 
- 
+Github - [https://github.com/naman14/PlayNewsStandDemo](https://github.com/naman14/PlayNewsStandDemo)
+
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayNewsStandDemo&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=naman14&repo=PlayNewsStandDemo&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
@@ -114,6 +128,3 @@ Armageddon-   [Github](https://github.com/naman14/Armageddon-2014) , [Google Pla
 
 
 -------
-
-
-
