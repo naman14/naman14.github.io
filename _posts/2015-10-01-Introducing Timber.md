@@ -4,6 +4,7 @@ title: Introducing Timber
 comments: true
 related: false
 permalink: introducing-timber
+excerpt: Timber is a Music player for Android heavily focused on design. I have been working on this Music Player for a few months and now it has reached a stage where it can be released in Beta.
 ---
 
 I have been working on this Music Player for a few months and now it has reached a stage where it can be released in Beta.

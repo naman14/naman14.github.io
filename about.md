@@ -21,5 +21,6 @@ I want to thank [Arnav Gupta](http://championswimmer.in) for giving me the oppor
 * You can visit my Github profile [here](https://github.com/naman14).
 * You can check out my apps on Play Store [here](https://play.google.com/store/apps/developer?id=Naman14&hl=en).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=naman14&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 -------
+
+You can contact me via [email](mailto:namandwivedi14@gmail.com) or follow me on [Twitter](http://twitter.com/naman1405), [Github](http://github.com/naman14).

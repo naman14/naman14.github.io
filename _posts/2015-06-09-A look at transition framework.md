@@ -4,6 +4,7 @@ title: A look at the Transition framework of Android
 comments: true
 related: false
 permalink: transition-framework-android
+excerpt: With all the animations being added in the Google Play apps, I was wondering how they were being used and then I found out the Transition Framework of Android. After looking a little deeper in it, I was able to create the animation being used in the Google play apps. Here, I will be explaining a liitle about the usage of Transition Framework of Android to create a variety of animations.
 ---
 With all the animations being added in the Google Play apps, I was wondering how they were being used and then I found out the Transition Framework of Android. After looking a little deeper in it, I was able to create the animation being used in the Google play apps.
 
@@ -19,11 +20,11 @@ The transition framework can also be used to animate the whole views  between di
 activity.getInstance().getWindow().setExitTransition(new Explode());
 ActivityOptions options=ActivityOptions.makeSceneTransitionAnimation(activity.getInstance());
 context.startActivity(intent,options.toBundle());
-{% endhighlight %} 
+{% endhighlight %}
 
 Animating views between scenes of same activity is pretty easy and is well documented at [developer.android.com](http://developer.android.com/training/transitions/index.html).
 Scenes are basically the state of a view hierachy at a particular time.We can have a initial view hierachy(Scene A) when activity is launched and then we can create a different view hierachy(Scene B) and we can tell the transition framework to animate between these two scenes.The scenes can be loaded either from a layout resource file or from a group of views in existing code.
-                 
+
 
 ##Animating shared elements between activities
 
@@ -83,7 +84,7 @@ Launch the intent with passing the ActivityOptions as bundle.
 mContext.startActivity(intent,options.toBundle());
 {% endhighlight %}
 
-Now,our transition will work but we will not get the same effect as the Google Play Games animation. When transition framework applies transition between two views, 
+Now,our transition will work but we will not get the same effect as the Google Play Games animation. When transition framework applies transition between two views,
 it immediately changes the initial view to the target view before even starting the animation(And probably that will be necessary as it doesn't actually moves view from one layout to another layout).So if we have a square image view in first activity and a CircularImageView in second activity with same transitionName value and when intent is fired,the square view will already be converted into circular view before even starting the transition and then further changes will be animated.
 
 So if we want to achieve the rquired effect, we will have to save the bitmap before transition starts otherwise there will not be a shrinking effect.
@@ -115,7 +116,7 @@ And then in the launched activity we can use `setEnterSharedElementCallback` to 
 
 Transition framework was introduced in API level 19 and was further updated with many new additions in API level 21. Simple scene transitions and activity transitions will work for 19+ however SharedElementCallbacks were introduced in Lollipop. So be sure to check for Build version before using transition framework.
 
-There is also a library on Github([Transitions-Everywhere](https://github.com/andkulikov/transitions-everywhere)) which is a backport of Transition Framework upto 2.2+ 
+There is also a library on Github([Transitions-Everywhere](https://github.com/andkulikov/transitions-everywhere)) which is a backport of Transition Framework upto 2.2+
 
 * The custom transition class can be found here- [PlayTransition.java](https://github.com/naman14/PlayAnimations/blob/master/app/src/main/java/com/naman14/playanimations/PlayTransition.java)
 
@@ -124,14 +125,8 @@ There is also a library on Github([Transitions-Everywhere](https://github.com/an
 * A sample apk can be found on [Google Play](https://play.google.com/store/apps/details?id=com.naman14.playanimations&hl=en)
 
 --------
-     
-     
+
+
 **Posted by `Naman Dwivedi` on `09 Jun 2015`**
 
 **Tags-   `Android`  ,`UI`**
-
-
- 
-
-
-
