@@ -1,13 +1,12 @@
 ---
 layout: page
-title: 
+title:
 ---
 <center>
 <div class="github-card" data-github="naman14" data-width="400" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 </center>
-
 
 I am Naman Dwivedi mostly known on web with my username `naman14`.
 I am an Android developer and I like to work on Core and UI/UX development.
@@ -22,5 +21,5 @@ I want to thank [Arnav Gupta](http://championswimmer.in) for giving me the oppor
 * You can visit my Github profile [here](https://github.com/naman14).
 * You can check out my apps on Play Store [here](https://play.google.com/store/apps/developer?id=Naman14&hl=en).
 
+<iframe src="https://ghbtns.com/github-btn.html?user=naman14&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 -------
-
