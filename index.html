@@ -1,34 +1,351 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Naman Dwivedi</title>
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<!-- Custom Theme files -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- Custom Theme files -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Naman Dwivedi, naman14, Android" />
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!--webfont-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  ga('create', 'UA-60857131-1', 'auto');
+  ga('send', 'pageview');
 
-    {{ post.excerpt}}
-  </article>
-  {% endfor %}
+</script>
+
+</head>
+<body>
+	<!-- header-section-starts -->
+	<div class="top-strip">
+	</div>
+	<div class="header" id="home">
+		<div class="container">
+			<div class="header-top">
+				<div class="user">
+					<h1><a href="index.html">Naman Dwivedi</a></h1>
+					<p>naman14</p>
+				</div>
+				<div class="social-icons">
+					<a href="https://facebook.com/naman.dwivedi.10"><i class="facebook"></i></a>
+					<a href="https://twitter.com/naman1405"><i class="twitter"></i></a>
+					<a href="https://in.linkedin.com/in/naman14"><i class="linkedin"></i></a>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="about_user">
+
+				<div class="col-md-4">
+					<ul>
+						<li><i class="msg"></i></li>
+						<li><a href="mailto:namandwivedi14@gmail.com">namandwivedi14@gmail.com</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-4">
+					<ul>
+						<li><i class="sites"></i></li>
+						<li><a href="https://github.com/naman14">github.com/naman14</a></li>
+					</ul>
+				</div>
+
+
+				<div class="col-md-4">
+					<ul>
+						<li><i class="phone"></i></li>
+						<li>+91 9953778004</li>
+					</ul>
+				</div>
+
+
+
+				<div class="clearfix"></div>
+			</div>
+			<div class="text">
+				<p>Android developer, Enginnering student, Freelancer and an open source enthusiast.</p>
+			</div>
+		</div>
+	</div>
+	<div class="content">
+		<div class="top-grid">
+			<div class="container">
+				<div class="col-md-6 top-left-grid">
+					<h3>Professional Skills & Experiences</h3>
+					<p class="skill1">Android/Java<label class="color1"></label></p>
+					<p class="skill2">UI & UX Design<label class="color2"></label></p>
+					<p class="skill3">C/C++<label class="color3"></label></p>
+					<p class="skill4">Swift<label class="color4"></label></p>
+					<p class="skill5">Javascript<label class="color5"></label></p>
+				</div>
+				<div class="col-md-6 top-right-grid">
+					<h3>Design & Development Tools</h3>
+					<p class="skill6">Android Studio/IntelliJ Idea<label class="color6"></label></p>
+					<p class="skill7">Adobe Photoshop<label class="color7"></label></p>
+					<p class="skill8">Gradle <label class="color8"></label></p>
+					<p class="skill9">JNI / Android NDK <label class="color9"></label></p>
+					<p class="skill10">HTML/CSS<label class="color10"></label></p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="middle-grid">
+			<div class="container">
+				<h3>Professional Experience</h3>
+				<div class="middle-section-grid">
+					<div class="date text-center">
+						<h5>May 2015</h5>
+						<p>to</p>
+						<h5>July 2015</h5>
+						<label class="span1"></label>
+					</div>
+					<div class="event">
+						<h4>Android Developer Intern, <span> PressPlay</span></h4>
+						<p>Built the first shipped Android app of PressPlay and then worked on improving the UI/UX and adding new features.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="middle-section-grid">
+					<div class="date text-center">
+						<h5>Jun 2015</h5>
+						<p>to</p>
+						<h5>Nov 2015</h5>
+						<label class="span2"></label>
+					</div>
+					<div class="event">
+						<h4>Co-Founder, <span> Chestream</span></h4>
+						<p>A video streaming based social network which originated after winning AngelHack. Spent most of the time building the Android app.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<!-- <div class="middle-section-grid">
+				<div class="date text-center">
+				<h5>Jan 2016</h5>
+				<p>to</p>
+				<h5>Present</h5>
+				<label class="span3"></label>
+			</div>
+			<div class="event">
+			<h4>Software Development Intern, <span> EPOD Harvard</span></h4>
+			<p>Working on a financial statistics project for Evidence for Policy Design, Harvard university</p>
+		</div>
+		<div class="clearfix"></div>
+	</div> -->
+	<div class="middle-section-grid">
+		<div class="date text-center">
+			<h5>May 2015</h5>
+			<p>to</p>
+			<h5>Present</h5>
+			<label class="span4"></label>
+		</div>
+		<div class="event">
+			<h4>Contributor, <span>  CyangogenMod</span></h4>
+			<p>Contributing to CyanogenMod in ares of fixes and minor additions in my free time.</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="middle-section-grid">
+		<div class="date text-center">
+			<h5>Sep 2015</h5>
+			<p>to</p>
+			<h5>Nov 2015</h5>
+		</div>
+		<div class="event span_66">
+			<h4>Freelancer, <span>  Dhodu</span></h4>
+			<p>Built the Android app of Dhodu, a statutup based on laundry on demand, along with other developers.</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="middle-section-grid">
+		<div class="date text-center">
+			<h5>Jan 2015</h5>
+			<p>to</p>
+			<h5>Present</h5>
+			<label class="span4"></label>
+		</div>
+		<div class="event">
+			<h4>Freelancer, <span>  Atomicles</span></h4>
+			<p>Building the android app of Atomicles</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="middle-section-grid">
+		<div class="date text-center">
+			<h5>Feb 2015</h5>
+			<p>to</p>
+			<h5>Present</h5>
+			<label class="span4"></label>
+		</div>
+		<div class="event">
+			<h4>Freelancer, <span>  Alleynian</span></h4>
+			<p>The Alleynian application is a private social networking platform for Dulwich College Students and alumni.</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
 </div>
-
-<div class="pagination">
-    {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-  {% if paginator.next_page %}
-  <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-  <span class="pagination-item older">Older</span>
-  {% endif %}
-
 </div>
+<div class="container">
+	<div class="bottom-grid">
+		<div class="col-md-6 bottom-grid-left">
+			<h3>Projects</h3>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>Timber</h4>
+					<p>Material design music player for Android</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>MaterialPowerMenu</h4>
+					<p>A demo of the Android power menu with reveal and other animations</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2016</h5>
+				</div>
+				<div class="qualification">
+					<h4>AndroidLame</h4>
+					<p>Android/Java wrapper around Lame mp3 encoder</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2016</h5>
+				</div>
+				<div class="qualification">
+					<h4>TStream</h4>
+					<p>Android/Web cross platform audio/video streaming library</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2014</h5>
+				</div>
+				<div class="qualification">
+					<h4>S Tools+</h4>
+					<p>Android app to keep track of CPU and Sensors alongwith useful features like Color Picker,Compass and device information</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>Engifest</h4>
+					<p>Android app for Engifest 2015, the annual cultiral fest of Delhi College of Engineering</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year text-center">
+					<h5>2016</h5>
+				</div>
+				<div class="qualification">
+					<h4>Spar</h4>
+					<p>OSX desktop app acting as a Github client written in Swift</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+
+
+		<div class="col-md-6 bottom-grid-right">
+			<h3>Honors & Awards</h3>
+
+			<div class="grids">
+				<div class="year year2 text-center">
+					<h5>2016</h5>
+				</div>
+				<div class="qualification">
+					<h4>Winner of PMO mobile app contest</h4>
+					<p>PMO India and Google India <br> Our team won the prestigious PMO Mobile app contest after 4 phases over 6 months starting from 50,000 ideas. We will be releasing and maintaining this app for the Prime minister's office </p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year year2 text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>Speaker at DroidCon India 2015</h4>
+					<p>Took a workshop on 'Enhancing UI/UX using Java animations' in DroidCon India 2015. Talked about Custom views and how we can create unique animations with the help of custom views.</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year year2 text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>AngelHack Delhi 2015 winner</h4>
+					<p>Won the biggest Global Hackathon Series. Developed Chestream : a new social network around video streaming.</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year year2 text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>Winner at PolicyHack</h4>
+					<p>PolicyHack, EPoD (Harvard University)</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="grids">
+				<div class="year year2 text-center">
+					<h5>2015</h5>
+				</div>
+				<div class="qualification">
+					<h4>Winner at Geekfest'15</h4>
+					<p>91 Spring Board</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="container">
+		<div class="copyrights text-center">
+			<p>Copyright &copy; 2015 All rights reserved</a></p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
