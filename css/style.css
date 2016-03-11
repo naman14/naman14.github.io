@@ -470,7 +470,7 @@ label.span4 {
 	font-weight: 400;
 }
 .copyrights p a {
-	color: #ef5651;
+	text-decoration:underline;
 }
 /*-- responsive-design starts-here --*/
 
