@@ -259,7 +259,7 @@ i.sites {
 	left: 0;
 }
 .top-left-grid label.color4 {
-	width: 280px;
+	width: 360px;
 	height: 4px;
 	background:#8fa065;
 	position:absolute;
@@ -579,7 +579,7 @@ label.span4 {
 		height: 3px;
 	}
 	.top-left-grid label.color4 {
-		width: 350px;
+		width: 360px;
 		height: 3px;
 	}
 	.top-left-grid label.color5 {
@@ -738,7 +738,7 @@ label.span4 {
 		width: 410px;
 	}
 	.top-left-grid label.color4 {
-		width: 300px;
+		width: 370px;
 	}
 	.top-right-grid label.color7, .top-right-grid label.color9 {
 		width: 380px;
@@ -820,7 +820,7 @@ label.span4 {
 		height: 2px;
 	}
 	.top-left-grid label.color4 {
-		width: 250px;
+		width: 280px;
 		height: 2px;
 	}
 	.top-left-grid label.color5 {
@@ -1013,7 +1013,7 @@ label.span4 {
 		width: 290px;
 	}
 	.top-left-grid label.color4 {
-		width: 200px;
+		width: 280px;
 	}
 	.top-left-grid label.color5 {
 		width: 260px;
@@ -1212,7 +1212,7 @@ label.span4 {
 		width: 190px;
 	}
 	.top-left-grid label.color4 {
-		width: 140px;
+		width: 200px;
 	}
 	.top-left-grid label.color5 {
 		width: 180px;
