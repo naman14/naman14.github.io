@@ -38,6 +38,9 @@ const Layout = ({ children }) => (
             <FontAwesomeIcon icon={faFacebook} size="2x" onClick={ () => window.open("https://facebook.com/naman.dwivedi.10", '_self')} style={{marginLeft: '2.5rem', cursor: 'pointer'}}/>
             <FontAwesomeIcon icon={faLinkedin} size="2x" onClick={ () => window.open("https://in.linkedin.com/in/naman14", '_self')} style={{marginLeft: '2.5rem', cursor: 'pointer'}}/>
             </div>
+            <br/>
+            <p style={{textAlign: 'center'}}>Built with <a style={{textDecoration: 'none', color: '#000000'}} href="https://www.gatsbyjs.org/"><strong>Gatsby</strong></a></p>
+            <p style={{textAlign: 'center'}}>View source on <a style={{textDecoration: 'none', color: '#000000'}} href="https://github.com/naman14/naman14.github.io"><strong>Github</strong></a></p>
 
         </div>      
       </>

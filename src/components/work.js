@@ -13,7 +13,9 @@ const Work = ({ project }) => (
 
     <div style={{marginLeft:'2rem', marginRight:'2.5rem'}}>
 
-    <h3><a style={{textDecoration: 'none', color: '#000000'}} href={project.links[0]}>{project.name}</a></h3>
+      <h3>
+        <a style={{textDecoration: 'none', color: '#000000'}} href={project.links[0]}>{project.name}</a>
+      </h3>
       <p>{project.description}</p>
       <p>{project.extra_desc}</p>
     </div>
