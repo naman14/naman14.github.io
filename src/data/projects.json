@@ -1,5 +1,31 @@
 [
     {
+        "name": "Prime Minister's Office",
+        "description": "Official app of the Indian Prime Minister's office",
+        "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India. This app gives citizens access to critical information about flagship programmes. In addition, the app provides an overview of the Prime Minister’s major initiatives, news and social media updates, all in 10 indian languages.",
+        "tags": [
+            "work",
+            "featured",
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/pmo_icon.png",
+        "images": [
+            "images/pmo_screen1.png",
+            "images/pmo_screen2.png",
+            "images/pmo_screen3.png",
+            "images/pmo_pic.jpg",
+            "images/pmo_pic2.png",
+            "images/pmo_pic3.jpg"
+        ],
+        "links": [
+            "https://googleindia.blogspot.in/2016/08/with-new-app-prime-minister-is-just-tap.html?m=1",
+            "https://play.google.com/store/apps/details?id=com.sanskrit.pmo&hl=en"
+        ]
+    },
+
+    {
         "name": "Grofers",
         "description": "Online grocery delivery platform",
         "extra_desc": "Working on the consumer Android app of Grofers. Was previously an intern at Grofers when developed an image loading library for Android with specific features required for the Grofers consumer app like Priority TTL LRU disk cache and custom animator support for displaying images.",
@@ -27,32 +53,6 @@
         "links": [
             "https://summerofcode.withgoogle.com/archive/2017/projects/5863386004848640/",
             "https://github.com/openMF/mobile-wallet"
-        ]
-    },
-
-    {
-        "name": "Prime Minister's Office",
-        "description": "Official app of the Indian Prime Minister's office",
-        "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India. This app gives citizens access to critical information about flagship programmes. In addition, the app provides an overview of the Prime Minister’s major initiatives, news and social media updates, all in 10 indian languages.",
-        "tags": [
-            "work",
-            "featured",
-            "android",
-            "java",
-            "all"
-        ],
-        "icon": "images/pmo_icon.png",
-        "images": [
-            "images/pmo_screen1.png",
-            "images/pmo_screen2.png",
-            "images/pmo_screen3.png",
-            "images/pmo_pic.jpg",
-            "images/pmo_pic2.png",
-            "images/pmo_pic3.jpg"
-        ],
-        "links": [
-            "https://googleindia.blogspot.in/2016/08/with-new-app-prime-minister-is-just-tap.html?m=1",
-            "https://play.google.com/store/apps/details?id=com.sanskrit.pmo&hl=en"
         ]
     },
 
