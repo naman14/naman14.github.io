@@ -1,3 +1,6 @@
+import React from 'react'
+import { Link } from 'gatsby'
+
 export default ({ pageContext: { project } }) => (
     <div style={{ width: 960, margin: "4rem auto" }}>
       <h1>{project.name}</h1>

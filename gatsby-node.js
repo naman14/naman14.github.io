@@ -1,12 +1,12 @@
-const projectsData = require('./data/get-projects.js')
+const projectsData = require('./src/data/get-projects.js')
 
-exports.createProjectPages = async ({ actions: { createProjectPage } }) => {
+exports.createPages = async ({ actions: { createPage } }) => {
 
     // `getProjectData` is a function that fetches our data
     const allProjects = projectsData.getProjects("all")
   
     // Create a page that lists all projects.
-    createProjectPage({
+    createPage({
       path: `/`,
       component: require.resolve("./src/templates/all-projects.js"),
       context: { allProjects },
@@ -14,7 +14,7 @@ exports.createProjectPages = async ({ actions: { createProjectPage } }) => {
   
     // Create a page for each project.
     allProjects.forEach(project => {
-      createProjectPage({
+      createPage({
         path: `/project/${project.name}/`,
         component: require.resolve("./src/templates/project.js"),
         context: { project },
