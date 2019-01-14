@@ -11,7 +11,7 @@ const Work = ({ project }) => (
     <img style={{width: '90px', height:"90px"}} src={project.icon}></img>
     </div>
 
-    <div style={{marginLeft:'2rem', marginRight:'2.5rem'}}>
+    <div style={{marginLeft:'1.5rem', marginRight:'0.7rem'}}>
 
       <h3>
         <a style={{textDecoration: 'none', color: '#000000'}} href={project.links[0]}>{project.name}</a>

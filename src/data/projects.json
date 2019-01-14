@@ -33,7 +33,7 @@
     {
         "name": "Prime Minister's Office",
         "description": "Official app of the Indian Prime Minister's office",
-        "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India. This app gives citizens access to critical information about flagship programmes. In addition, the app provides an overview of the Prime Minister’s major initiatives, news and social media updates, audio recordings and videos of 'Mann Ki Baat' with the PM , all this and more in 10 Indian languages.",
+        "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India. This app gives citizens access to critical information about flagship programmes. In addition, the app provides an overview of the Prime Minister’s major initiatives, news and social media updates, all in 10 indian languages.",
         "tags": [
             "work",
             "featured",
@@ -109,7 +109,7 @@
             "https://github.com/openMF/mobile-wallet"
         ]
     },
-    
+
     {
         "name": "Player Known Battle Grounds",
         "description": "Built at Hack In Out 2018, PKBG is a game inspired by a crossover of Fornite and PUBG with 1:1 games being played in AR world built with Sceneform and cloud anchors and using machine learning to detect potential bullet hits to the players ",
@@ -136,7 +136,7 @@
     {
         "name": "Algorithm Visualizer",
         "description": "Visualize algorithms and data structures using animations. All visualizations are completely done using native canvas APIs for Android. Sorting, Binary Search, BST, BFS and DFS traversal, Dijkstara and bellman ford search visualizations are currently present.",
-        "extra_desc": "",
+        "extra_desc": "Visualize algorithms and data structures using animations. All visualizations are completely done using native canvas APIs for Android. Sorting, Binary Search, BST, BFS and DFS traversal, Dijkstara and bellman ford search visualizations are currently present.",
         "tags": [
             "featured",
             "android",
@@ -175,6 +175,7 @@
     {
         "name": "Arcade",
         "description": "Neural style in Android. Arcade lets you stylize your photos with famous artworks. Arcade is like Prisma but works completely on the Android side. Arcade was built after porting Torch-7 implementation of neural style algorithm to Android and writing a small bridge between Lua -> C -> Java",
+        "extra_desc": "Neural style in Android. Arcade lets you stylize your photos with famous artworks. Arcade is like Prisma but works completely on the Android side. Arcade was built after porting Torch-7 implementation of neural style algorithm to Android and writing a small bridge between Lua -> C -> Java",
         "tags": [
             "featured",
             "android",

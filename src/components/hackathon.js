@@ -3,7 +3,7 @@ import { Col, Row } from 'react-flexbox-grid'
 
 const Hackathon = ({ project }) => (
 
-    <Col lg={6} md={12} style={{marginBottom:'50px'}}>
+    <Col lg={6} md={12} style={{marginBottom:'15px'}}>
 
     <div style={{display:'flex', justifyContent: 'flex-start',  alignItems: 'start'}}>
 
@@ -15,9 +15,7 @@ const Hackathon = ({ project }) => (
         :<h3>{project.name} </h3>
     }
       <p>{project.description}</p>
-      <p>{project.extra_desc}</p>
     </div>
-
 
     </div>
 
