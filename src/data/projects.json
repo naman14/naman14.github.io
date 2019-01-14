@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Grofers",
+        "description": "Online grocery delivery platform",
+        "extra_desc": "Working on the consumer Android app of Grofers. Was previously an intern at Grofers when developed an image loading library for Android with specific features required for the Grofers consumer app like Priority TTL LRU disk cache and custom animator support for displaying images",
+        "tags": [
+            "work",
+            "android",
+            "java"
+        ],
+        "icon": "images/grofers_icon.jpg"
+    },
+
+    {
+        "name": "Google Summer of Code",
+        "description": "Mifos Initiative",
+        "extra_desc": "Created a mobile wallet framework based on top of Fineract having a core module using clean architecture and supporting merchant payments, store of value, transfers and payments.",
+        "tags": [
+            "work",
+            "android",
+            "java"
+        ],
+        "icon": "images/gsoc.png"
+    },
+
+    {
+        "name": "Prime Minister's Office",
+        "description": "Official app of the Indian Prime Minister's office",
+        "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India",
+        "tags": [
+            "work",
+            "featured",
+            "android",
+            "java"
+        ],
+        "icon": "images/pmo_icon.png",
+        "images": [
+            "images/pmo_screen1.png",
+            "images/pmo_screen2.png",
+            "images/pmo_screen3.png",
+            "images/pmo_pic.jpg",
+            "images/pmo_pic2.png",
+            "images/pmo_pic3.jpg"
+
+        ]
+    },
+
+    {
+        "name": "Player Known Battle Grounds",
+        "description": "Built at Hack In Out 2018, PKBG is a game inspired by a crossover of Fornite and PUBG with 1:1 games being played in AR world built with Sceneform and cloud anchors and using machine learning to detect potential bullet hits to the players ",
+        "extra_desc": "PKBG brings the familiar PUBG / CS:GO like shooting dynamics, combined with Fortnite's building mechanics that allow us to build walls around us in an AR world and then engage in a shootout with real people who can hide behind virtual walls.",
+        "tags": [
+            "featured",
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/github.png",
+        "images": [
+            "images/pkbg_screen1.jpg",
+            "images/pkbg_screen2.jpg"
+
+        ]
+    },
+
+    {
+        "name": "Mifos Mobile Wallet",
+        "description": "A reference implementation of Mifos platform wallet and payment capabilities using Apache Fineract. Mobile Wallet was my Google summer of code project for 2017.",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/gsoc.png"
+    },
+
+
+    {
+        "name": "EPOD Harvard University",
+        "description": "Evidence for Policy design at Harvard University",
+        "extra_desc": "Working on a financial statistics project for EPOD with the primary aim being to improve the delay in payments in MNREGA",
+        "tags": [
+            "work",
+            "android",
+            "java"
+        ],
+        "icon": "images/epod.png"
+    },
+
+
+    {
+        "name": "Timber",
+        "description": "Material design music player for Android with support for Chromecast, Android wear and Android Auto. It is one of the finest designed music players for Android with focus on customisability. Timber also supports lyrics and LastFM scrobbling.",
+        "extra_desc": "",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/timber_icon.png"
+    },
+
+    {
+        "name": "Algorithm Visualizer",
+        "description": "Visualize algorithms and data structures using animations. All visualizations are completely done using native canvas APIs for Android. Sorting, Binary Search, BST, BFS and DFS traversal, Dijkstara and bellman ford search visualizations are currently present.",
+        "extra_desc": "",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/algorithm_visualizer_icon.png"
+    },
+
+    {
+        "name": "MaterialPowerMenu",
+        "description": "Material design focused Power Menu for Android. Originally built after coming across a design concept on Dribble, Material power menu was turned into actual app after utilising a set of new animation APIs that were introduced in Lollipop.",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/material_power_menu_icon.png"
+    },
+
+    {
+        "name": "Arcade",
+        "description": "Neural style in Android. Arcade lets you stylize your photos with famous artworks. Arcade is like Prisma but works completely on the Android side. Arcade was built after porting Torch-7 implementation of neural style algorithm to Android and writing a small bridge between Lua -> C -> Java",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/arcade_icon.png"
+    },
+
+    {
+        "name": "TAndroidLame",
+        "description": "Android/Java wrapper around Lame mp3 encoder. Lame is a powerful mp3 encoder that supports a number of operations. TAndroidLame was built as a wrapper library around Lame.",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/github.png"
+    },
+
+    {
+        "name": "Muzei macOS",
+        "description": "Muzei is a menu bar app for macOS that lets you use daily updated famous works of art as the wallpaper. Muzei also supports using top scoring images from Reddit and Unsplash as the wallpaper. Customisation options like blurring, dimming and specifying the subreddit are present. ",
+        "tags": [
+            "macos",
+            "swift",
+            "all"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "gnome-android-tool",
+        "description": "Gnome shell extension for adb tools with support for taking screenshots, recording screen, connecting over TCP and capturing bug report.",
+        "tags": [
+            "linux",
+            "javascript",
+            "all"
+        ],
+        "icon": "images/github.png"
+    },
+
+    {
+        "name": "Terminal Screen Saver",
+        "description": "macOS screensaver simulating a terminal. TerminalScreensaver makes your computer look like a terminal. This is perfect for going out for a cup of coffee and pretending to your boss that some terminal process is going on.",
+        "tags": [
+            "macos",
+            "swift",
+            "all"
+        ],
+        "icon": "images/github.png"
+    },
+
+    {
+        "name": "CS:GO Live",
+        "description": "CS:GO real time scorebot using Valve's Game State Integration. CS:GO Live uses Valve's Game State Integration to collect game state changes and broadcast them in them real time.",
+        "extra_desc": "CS:GO Live lets you broadcast games to everyone when you are playing, save your game scores, view your past games and watch live games that other users are broadcasting.",
+        "tags": [
+            "desktop",
+            "javascript",
+            "all"
+        ],
+        "icon": "images/csgo_icon.png"
+    },
+
+    {
+        "name": "S Tools+",
+        "description": "S Tools+ is an Android app to keep track of CPU and Sensors alongwith useful features like color picker, compass and device information",
+        "tags": [
+            "android",
+            "java",
+            "all"
+        ],
+        "icon": "images/stools_icon.png"
+    },
+
+
+    {
+        "name": "Winner - Hack InOut 2018",
+        "description": "Player Known Battle Grounds. PKBG brings the familiar PUBG / CS:GO like shooting dynamics, combined with Fortnite's building mechanics that allow us to build walls around us in an AR world and then engage in a shootout with real people who can hide behind virtual walls.",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon"
+        ],
+        "icon": "images/muzei_icon.png",
+        "images": [
+            "images/paytm_build_india.jpeg"
+        ]
+    },
+
+    {
+        "name": "Winner - AngelHack Delhi 2015",
+        "description": "Won the biggest Global Hackathon Series. Developed Chestream : a new social network around video streaming.",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon"
+        ],
+        "icon": "images/muzei_icon.png",
+        "images": [
+            "images/paytm_build_india.jpeg"
+        ]
+    },
+
+     {
+        "name": "Winner - Paytm Build for India Hackathon",
+        "description": "We made an offline to offline payment solution using near ultrasonic waves for data transfer. ",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon"
+        ],
+        "icon": "images/muzei_icon.png",
+        "images": [
+            "images/paytm_build_india.jpeg"
+        ]
+    },
+
+    {
+        "name": "Winner - India UK Tech Summit Finclusion Hackathon",
+        "description": "We made an Android app to track real time return on different investments and create awareness for different financial schemes of the government",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon"
+        ],
+        "icon": "images/muzei_icon.png",
+        "images": [
+            "images/paytm_build_india.jpeg"
+        ]
+    },
+
+    {
+        "name": "Winner - PolicyHack",
+        "description": "We made an Android app that provides extensive data on Education in India and helps chooses users best schools near them",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon"
+        ],
+        "icon": "images/muzei_icon.png",
+        "images": [
+            "images/paytm_build_india.jpeg"
+        ]
+    },
+
+    {
+        "name": "Droidcon India 2015",
+        "description": "Enhancing UI/UX using Java animations",
+        "tags": [
+            "android",
+            "java",
+            "talk"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "Droidcon India 2016",
+        "description": "Android NDK - Porting native softwares to Android",
+        "tags": [
+            "android",
+            "java",
+            "talk"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "With the new app, the Prime Minister's Office is just a tap away",
+        "description": "Google India Blog",
+        "tags": [
+            "android",
+            "java",
+            "news"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "Meet the six students behind Narendra Modi’s PMO app",
+        "description": "Indian Express",
+        "tags": [
+            "android",
+            "java",
+            "news"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "Star Contributor of the Month – Naman Dwivedi",
+        "description": "Mifos Blog",
+        "tags": [
+            "android",
+            "java",
+            "news"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "Material Power Menu Replaces Lollipop's Standard Power Menu With A Prettier And More Useful Alternative",
+        "description": "Android Police",
+        "tags": [
+            "android",
+            "java",
+            "news"
+        ],
+        "icon": "images/muzei_icon.png"
+    },
+
+    {
+        "name": "Keep Track of Your CPU, Device Sensors, and Colors with S Tools+",
+        "description": "XDA Developers",
+        "tags": [
+            "android",
+            "java",
+            "news"
+        ],
+        "icon": "images/muzei_icon.png"
+    }
+
+]
