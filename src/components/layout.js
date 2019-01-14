@@ -33,10 +33,10 @@ const Layout = ({ children }) => (
         {children}
         <hr></hr>
         <div style={{float: 'center', textAlign:'center', marginTop:'2rem'}}>
-            <FontAwesomeIcon icon={faGithub} size="2x"/>
-            <FontAwesomeIcon icon={faTwitter} size="2x" style={{marginLeft: '2.5rem'}}/>
-            <FontAwesomeIcon icon={faFacebook} size="2x" style={{marginLeft: '2.5rem'}}/>
-            <FontAwesomeIcon icon={faLinkedin} size="2x" style={{marginLeft: '2.5rem'}}/>
+            <FontAwesomeIcon icon={faGithub} size="2x" style={{cursor: 'pointer'}} onClick={ () => window.open( "https://github.com/naman14", "_self")}/>
+            <FontAwesomeIcon icon={faTwitter} size="2x" onClick={ () => window.open("https://twitter.com/naman1405", '_self')} style={{marginLeft: '2.5rem', cursor: 'pointer'}}/>
+            <FontAwesomeIcon icon={faFacebook} size="2x" onClick={ () => window.open("https://facebook.com/naman.dwivedi.10", '_self')} style={{marginLeft: '2.5rem', cursor: 'pointer'}}/>
+            <FontAwesomeIcon icon={faLinkedin} size="2x" onClick={ () => window.open("https://in.linkedin.com/in/naman14", '_self')} style={{marginLeft: '2.5rem', cursor: 'pointer'}}/>
             </div>
 
         </div>      

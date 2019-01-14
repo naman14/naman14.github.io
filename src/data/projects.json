@@ -8,7 +8,10 @@
             "android",
             "java"
         ],
-        "icon": "images/grofers_icon.jpg"
+        "icon": "images/grofers_icon.jpg",
+        "links": [
+            "https://grofers.com"
+        ]
     },
 
     {
@@ -20,7 +23,11 @@
             "android",
             "java"
         ],
-        "icon": "images/gsoc.png"
+        "icon": "images/gsoc.png",
+        "links": [
+            "https://summerofcode.withgoogle.com/archive/2017/projects/5863386004848640/",
+            "https://github.com/openMF/mobile-wallet"
+        ]
     },
 
     {
@@ -31,7 +38,8 @@
             "work",
             "featured",
             "android",
-            "java"
+            "java",
+            "all"
         ],
         "icon": "images/pmo_icon.png",
         "images": [
@@ -41,7 +49,10 @@
             "images/pmo_pic.jpg",
             "images/pmo_pic2.png",
             "images/pmo_pic3.jpg"
-
+        ],
+        "links": [
+            "https://googleindia.blogspot.in/2016/08/with-new-app-prime-minister-is-just-tap.html?m=1",
+            "https://play.google.com/store/apps/details?id=com.sanskrit.pmo&hl=en"
         ]
     },
 
@@ -53,6 +64,7 @@
             "featured",
             "android",
             "java",
+            "oss",
             "all"
         ],
         "icon": "images/github.png",
@@ -60,6 +72,10 @@
             "images/pkbg_screen1.jpg",
             "images/pkbg_screen2.jpg"
 
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
         ]
     },
 
@@ -69,9 +85,13 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/gsoc.png"
+        "icon": "images/gsoc.png",
+        "links": [
+            "https://github.com/openMF/mobile-wallet"
+        ]
     },
 
 
@@ -84,7 +104,10 @@
             "android",
             "java"
         ],
-        "icon": "images/epod.png"
+        "icon": "images/epod.png",
+        "links": [
+            "https://github.com/hks-epod"
+        ]
     },
 
 
@@ -95,9 +118,14 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/timber_icon.png"
+        "icon": "images/timber_icon.png",
+        "links": [
+            "https://github.com/naman14/Timber",
+            "https://play.google.com/store/apps/details?id=naman14.timber"
+        ]
     },
 
     {
@@ -107,9 +135,14 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/algorithm_visualizer_icon.png"
+        "icon": "images/algorithm_visualizer_icon.png",
+        "links": [
+            "https://github.com/naman14/AlgorithmVisualizer-Android",
+            "https://play.google.com/store/apps/details?id=com.naman14.algovisualizer"
+        ]
     },
 
     {
@@ -118,9 +151,14 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/material_power_menu_icon.png"
+        "icon": "images/material_power_menu_icon.png",
+        "links": [
+            "https://github.com/naman14/MaterialPowerMenu",
+            "https://play.google.com/store/apps/details?id=com.naman14.powermenu"
+        ]
     },
 
     {
@@ -129,9 +167,29 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/arcade_icon.png"
+        "icon": "images/arcade_icon.png",
+        "links": [
+            "https://github.com/naman14/Arcade",
+            "https://play.google.com/store/apps/details?id=com.naman14.arcade"
+        ]
+    },
+
+    {
+        "name": "Spider",
+        "description": "Spider is an Android library to monitor and modify network requests including modifying response body. Spider currently only works with Retrofit.",
+        "tags": [
+            "android",
+            "java",
+            "oss",
+            "all"
+        ],
+        "icon": "images/github.png",
+        "links": [
+            "https://github.com/naman14/Spider"
+        ]
     },
 
     {
@@ -140,9 +198,13 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/github.png"
+        "icon": "images/github.png",
+        "links": [
+            "https://github.com/naman14/TAndroidLame"
+        ]
     },
 
     {
@@ -151,9 +213,14 @@
         "tags": [
             "macos",
             "swift",
+            "oss",
             "all"
         ],
-        "icon": "images/muzei_icon.png"
+        "icon": "images/muzei_icon.png",
+        "links": [
+            "https://github.com/naman14/Muzei-macOS",
+            "https://itunes.apple.com/us/app/muzei/id1203123639"
+        ]
     },
 
     {
@@ -162,9 +229,13 @@
         "tags": [
             "linux",
             "javascript",
+            "oss",
             "all"
         ],
-        "icon": "images/github.png"
+        "icon": "images/github.png",
+        "links": [
+            "https://github.com/naman14/gnome-android-tool"
+        ]
     },
 
     {
@@ -173,9 +244,13 @@
         "tags": [
             "macos",
             "swift",
+            "oss",
             "all"
         ],
-        "icon": "images/github.png"
+        "icon": "images/github.png",
+        "links": [
+            "https://github.com/naman14/TerminalScreensaver"
+        ]
     },
 
     {
@@ -185,9 +260,13 @@
         "tags": [
             "desktop",
             "javascript",
+            "oss",
             "all"
         ],
-        "icon": "images/csgo_icon.png"
+        "icon": "images/csgo_icon.png",
+        "links": [
+            "https://github.com/naman14/csgolive"
+        ]
     },
 
     {
@@ -196,9 +275,13 @@
         "tags": [
             "android",
             "java",
+            "oss",
             "all"
         ],
-        "icon": "images/stools_icon.png"
+        "icon": "images/stools_icon.png",
+        "links": [
+            "https://github.com/naman14/S-Tools"
+        ]
     },
 
 
@@ -208,11 +291,15 @@
         "tags": [
             "desktop",
             "javascript",
-            "hackathon"
+            "hackathon",
+            "all"
         ],
-        "icon": "images/muzei_icon.png",
         "images": [
-            "images/paytm_build_india.jpeg"
+            "images/hackinout.jpg"
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
         ]
     },
 
@@ -223,10 +310,6 @@
             "desktop",
             "javascript",
             "hackathon"
-        ],
-        "icon": "images/muzei_icon.png",
-        "images": [
-            "images/paytm_build_india.jpeg"
         ]
     },
 
@@ -236,11 +319,14 @@
         "tags": [
             "desktop",
             "javascript",
-            "hackathon"
+            "hackathon",
+            "all"
         ],
-        "icon": "images/muzei_icon.png",
         "images": [
             "images/paytm_build_india.jpeg"
+        ],
+        "links": [
+            "https://blog.paytm.com/paytm-build-for-india-hackathon-the-judgement-day-fc859459b0ed"
         ]
     },
 
@@ -250,11 +336,11 @@
         "tags": [
             "desktop",
             "javascript",
-            "hackathon"
+            "hackathon",
+            "all"
         ],
-        "icon": "images/muzei_icon.png",
         "images": [
-            "images/paytm_build_india.jpeg"
+            "images/indiaukfintech.jpg"
         ]
     },
 
@@ -266,32 +352,39 @@
             "javascript",
             "hackathon"
         ],
-        "icon": "images/muzei_icon.png",
-        "images": [
-            "images/paytm_build_india.jpeg"
+        "links": [
+            "https://epod.cid.harvard.edu/article/policyhack-2015"
         ]
     },
 
     {
-        "name": "Droidcon India 2015",
+        "name": "DroidCon India 2015",
         "description": "Enhancing UI/UX using Java animations",
         "tags": [
             "android",
             "java",
-            "talk"
+            "talk",
+            "all"
         ],
-        "icon": "images/muzei_icon.png"
+        "icon": "images/muzei_icon.png",
+        "links": [
+            "https://goo.gl/w716r2"
+        ]
     },
 
     {
-        "name": "Droidcon India 2016",
+        "name": "DroidCon India 2016",
         "description": "Android NDK - Porting native softwares to Android",
         "tags": [
             "android",
             "java",
-            "talk"
+            "talk",
+            "all"
         ],
-        "icon": "images/muzei_icon.png"
+        "icon": "images/muzei_icon.png",
+        "links": [
+            "https://goo.gl/113BTI"
+        ]
     },
 
     {
@@ -302,7 +395,9 @@
             "java",
             "news"
         ],
-        "icon": "images/muzei_icon.png"
+        "links": [
+            "https://googleindia.blogspot.in/2016/08/with-new-app-prime-minister-is-just-tap.html?m=1"
+        ]
     },
 
     {
@@ -313,7 +408,9 @@
             "java",
             "news"
         ],
-        "icon": "images/muzei_icon.png"
+        "links": [
+            "http://indianexpress.com/article/education/meet-the-six-students-behind-narendra-modis-pmo-app/"
+        ]
     },
 
     {
@@ -324,7 +421,9 @@
             "java",
             "news"
         ],
-        "icon": "images/muzei_icon.png"
+        "links": [
+            "https://mifos.org/blog/star-contributor-naman-dwivedi/"
+        ]
     },
 
     {
@@ -335,7 +434,9 @@
             "java",
             "news"
         ],
-        "icon": "images/muzei_icon.png"
+        "links": [
+            "https://www.androidpolice.com/2015/03/21/material-power-menu-replaces-lollipops-standard-power-menu-with-a-prettier-and-more-useful-alternative/"
+        ]
     },
 
     {
@@ -346,7 +447,9 @@
             "java",
             "news"
         ],
-        "icon": "images/muzei_icon.png"
+        "links": [
+            "http://www.xda-developers.com/android/keep-track-of-your-cpu-device-sensors-and-colors-with-s-tools/"
+        ]
     }
 
 ]

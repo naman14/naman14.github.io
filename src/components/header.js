@@ -35,8 +35,8 @@ const Header = ({ siteTitle }) => (
       <Col lg={6} md={12}>
 
       <ul style={{ listStyle: `none`, textAlign: 'center' }}>
-        <ListLink to="/">Blog</ListLink>
-        <ListLink to="/contact/">Contact</ListLink>
+        <ListLink to="https://blog.namand.in">Blog</ListLink>
+        <ListLink to="mailto://namandwivedi14@gmail.com">Contact</ListLink>
       </ul>
 
       </Col>
@@ -48,7 +48,7 @@ const Header = ({ siteTitle }) => (
 
 const ListLink = props => (
   <li style={{ display: `inline-block`, marginRight: `2rem` }}>
-    <Link style={{ textDecoration: 'none', color: '#484848', fontSize:'18px' }} to={props.to}>{props.children}</Link>
+    <a style={{ textDecoration: 'none', color: '#484848', fontSize:'18px' }} href={props.to}>{props.children}</a>
   </li>
 )
 
