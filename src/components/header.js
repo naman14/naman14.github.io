@@ -36,7 +36,7 @@ const Header = ({ siteTitle }) => (
 
       <ul style={{ listStyle: `none`, textAlign: 'center' }}>
         <ListLink to="https://blog.namand.in">Blog</ListLink>
-        <ListLink to="mailto://namandwivedi14@gmail.com">Contact</ListLink>
+        <ListLink to="mailto:namandwivedi14@gmail.com">Contact</ListLink>
       </ul>
 
       </Col>

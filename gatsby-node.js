@@ -15,7 +15,7 @@ exports.createPages = async ({ actions: { createPage } }) => {
     // Create a page for each project.
     allProjects.forEach(project => {
       createPage({
-        path: `/project/${project.name}/`,
+        path: `/project/${project.name.replace(/\s/g, "")}/`,
         component: require.resolve("./src/templates/project.js"),
         context: { project },
       })

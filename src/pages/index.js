@@ -18,7 +18,10 @@ const IndexPage = () => (
 
     <div style={{textAlign: 'left'}}> 
       <p style={{fontSize:'20px'}}>Hi! I am <strong>Naman Dwivedi</strong> (<strong>naman14</strong>). I am a software enginner primarily working on Android. 
-      Currently, I am working over at <strong>Grofers</strong>.I graduated in 2018 from <strong>Delhi Techonological University</strong>. I am a open source enthusiast and most of my work can be found on my Github. I also work as a freelancer and if you have a project that you would like me to work on, drop me a mail.</p>
+      Currently, I am working over at <strong>Grofers</strong>.I graduated in 2018 from <strong>Delhi Techonological University</strong>.
+       I am a open source enthusiast and most of my work can be found on my Github.
+        I also work as a freelancer and if you have a project that you would like me to work on,
+         drop me a <a style={{textDecoration: 'none', color: '#000000'}} href="mailto:namandwivedi14@gmail.com"><strong>mail.</strong></a></p>
     </div>
 
     <br></br>
