@@ -112,7 +112,7 @@
 
     {
         "name": "Player Known Battle Grounds",
-        "description": "The project is now released on Google Play. Built at Hack In Out 2018, PKBG is a game inspired by a crossover of Fornite and PUBG with 1:1 games being played in AR world built with Sceneform and cloud anchors and using machine learning to detect potential bullet hits to the players ",
+        "description": "The game is now released on Google Play. Built at Hack In Out 2018, PKBG is a game inspired by a crossover of Fornite and PUBG with 1:1 games being played in AR world built with Sceneform and cloud anchors and using machine learning to detect potential bullet hits to the players ",
         "extra_desc": "PKBG brings the familiar PUBG / CS:GO like shooting dynamics, combined with Fortnite's building mechanics that allow us to build walls around us in an AR world and then engage in a shootout with real people who can hide behind virtual walls.",
         "tags": [
             "featured",
