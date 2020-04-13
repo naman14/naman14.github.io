@@ -72,6 +72,28 @@
         ]
     },
 
+    {
+        "name": "TimberX",
+        "description": "Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding) ",
+        "extra_desc": "",
+        "tags": [
+            "android",
+            "kotlin",
+            "java",
+            "oss",
+            "all"
+        ],
+        "icon": "images/timberx_icon.png",
+        "images": [
+            "images/timberx_screen1.png",
+            "images/timberx_screen2.png",
+            "images/timberx_screen3.png"
+        ],
+        "links": [
+            "https://github.com/naman14/TimberX",
+            "https://play.google.com/store/apps/details?id=com.naman14.timberx"
+        ]
+    },
 
     {
         "name": "Timber",
@@ -338,7 +360,6 @@
         ]
     },
 
-
     {
         "name": "Winner - Hack InOut 2018",
         "description": "Player Known Battle Grounds. PKBG brings the familiar PUBG / CS:GO like shooting dynamics, combined with Fortnite's building mechanics that allow us to build walls around us in an AR world and then engage in a shootout with real people who can hide behind virtual walls.",
@@ -475,6 +496,19 @@
         ],
         "links": [
             "https://mifos.org/blog/star-contributor-naman-dwivedi/"
+        ]
+    },
+
+    {
+        "name": "TimberX is a Material Theme music player app that supports Wear OS, Android Auto, Google Assistant, and more",
+        "description": "XDA Developers",
+        "tags": [
+            "android",
+            "music",
+            "news"
+        ],
+        "links": [
+            "https://www.xda-developers.com/timberx-material-theme-music-player-android/"
         ]
     },
 
