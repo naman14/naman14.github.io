@@ -26,11 +26,57 @@
     },
 
     {
-        "name": "Grofers",
-        "description": "Online grocery delivery platform",
-        "extra_desc": "Working on the consumer Android app of Grofers. Was previously an intern at Grofers when developed an image loading library for Android with specific features required for the Grofers consumer app like Priority TTL LRU disk cache and custom animator support for displaying images.",
+        "name": "EPOD Harvard University",
+        "description": "Evidence for Policy design at Harvard University",
+        "extra_desc": "Consulting on Paydash, a monitoring tool for block officials overseeing MGNREGA, India's employment guarantee programme for rural households. Helping EPoD with all their tech requirements - Android, Backend (Python, Node.js), ETL scripts, Analytics etc.",
         "tags": [
             "work",
+            "android",
+            "java"
+        ],
+        "icon": "images/epod.png",
+        "links": [
+            "https://github.com/hks-epod"
+        ]
+    },
+
+    {
+        "name": "BharatPe",
+        "description": "Merchant payment platform",
+        "extra_desc": "",
+        "tags": [
+            "professional-work",
+            "android",
+            "java"
+        ],
+        "icon": "images/bharatpe.png",
+        "links": [
+            "https://bharatpe.com"
+        ]
+    },
+
+    {
+        "name": "Doubtnut",
+        "description": "Interactive online tutoring and doubt solving",
+        "extra_desc": "",
+        "tags": [
+            "professional-work",
+            "android",
+            "java"
+        ],
+        "icon": "images/doubtnut.jpeg",
+        "links": [
+            "https://doubtnut.com"
+        ]
+    },
+
+
+    {
+        "name": "Grofers",
+        "description": "Online grocery delivery",
+        "extra_desc": "",
+        "tags": [
+            "professional-work",
             "android",
             "java"
         ],
@@ -58,17 +104,18 @@
 
 
     {
-        "name": "EPOD Harvard University",
-        "description": "Evidence for Policy design at Harvard University",
-        "extra_desc": "Working on a financial statistics project for EPOD with the primary aim being to improve the delay in payments in MNREGA.",
+        "name": "Accord",
+        "description": "Accord is an Android library for automating performance measurements that easily integrates with existing CI infrastructure.",
+        "extra_desc": "",
         "tags": [
-            "work",
             "android",
-            "java"
+            "kotlin",
+            "oss",
+            "all"
         ],
-        "icon": "images/epod.png",
+        "icon": "images/github.png",
         "links": [
-            "https://github.com/hks-epod"
+            "https://github.com/naman14/Accord"
         ]
     },
 
@@ -97,7 +144,7 @@
 
     {
         "name": "Timber",
-        "description": "Material design music player for Android with support for Chromecast, Android wear and Android Auto. It is one of the finest designed music players for Android with focus on customisability. Timber also supports lyrics and LastFM scrobbling.",
+        "description": "Material design music player for Android with support for Chromecast, Android wear and Android Auto. Timber focuses on customisability and also supports lyrics and LastFM scrobbling.",
         "extra_desc": "",
         "tags": [
             "android",
@@ -379,8 +426,26 @@
     },
 
     {
+        "name": "Winner - Hack InOut 2019",
+        "description": "Alfred: Alfred helps in detecting onset of medical conditions like Parkinson's disease.",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon",
+            "all"
+        ],
+        "images": [
+            "images/hackinout.jpg"
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
+        ]
+    },
+
+    {
         "name": "Winner - AngelHack Delhi 2015",
-        "description": "Won the biggest Global Hackathon Series. Developed Chestream : a new social network around video streaming.",
+        "description": "Winner of the Delhi edition of AngelHack Global hackathon. Developed Chestream, a social network around video streaming.",
         "tags": [
             "desktop",
             "javascript",

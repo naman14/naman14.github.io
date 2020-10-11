@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 import Project from '../components/project'
 import Work from '../components/work'
+import ProfessionalWork from '../components/professional_work'
 import Hackathon from '../components/hackathon'
 import FeaturedProject from '../components/featured_project'
 import { Grid, Row, Col } from 'react-flexbox-grid';
@@ -15,10 +16,10 @@ const IndexPage = () => (
     <SEO title="Naman Dwivedi" keywords={[`Naman`, `Android`, `Timber`]} />
 
     <div style={{textAlign: 'left'}}> 
-      <p style={{fontSize:'20px'}}>Hi! I am <strong>Naman Dwivedi</strong> (<strong>naman14</strong>). I am a software engineer primarily working on Android. 
-      Currently, I am working over at <strong>Grofers</strong>.I graduated in 2018 from <strong>Delhi Techonological University</strong>.
-      I am a open source enthusiast and most of my work can be found on my Github.
-      I also work as a freelancer and if you have a project that you would like me to work on,
+      <p style={{fontSize:'20px'}}>Hi! I am <strong>Naman Dwivedi</strong> (<strong>naman14</strong>). I am a fullstack software engineer primarily working on Android. 
+      Currently, I am working at <strong>BharatPe</strong>. Previously, I worked at Doubtnut and Grofers. I graduated in 2018 from Delhi Techonological University.
+      I am an open source enthusiast and most of my work can be found on my <strong><a style={{textDecoration: 'none', color: '#000000'}} 
+      href="https://github.com/naman14">Github</a></strong>. I also work as a freelancer and if you have a project that you would like me to work on,
       drop me a <a style={{textDecoration: 'none', color: '#000000'}} href="mailto:namandwivedi14@gmail.com"><strong>mail.</strong></a></p>
     </div>
 
@@ -32,6 +33,15 @@ const IndexPage = () => (
         </Row>
       </Grid>    
     <div>
+
+    <h1>Professional work</h1>
+
+    <br/>
+      <Grid fluid>
+        <Row>
+        { projectsData.getProjects("professional-work").map((project, i) => <ProfessionalWork project={project}/>) }
+        </Row>
+      </Grid>    
 
     <br/>
     <h1>Featured projects</h1>
