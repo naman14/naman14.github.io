@@ -1,5 +1,26 @@
 [
     {
+        "name": "Glip (ggtv)",
+        "description": "Android/Web3",
+        "extra_desc": "Building tools for creators and web3 community. Built on chain puzzle game punksVSapes, Glip Android gaming recorder and live streaming tool.",
+        "tags": [
+            "work",
+            "android",
+            "web3",
+            "java",
+            "all"
+        ],
+        "icon": "images/glip_icon.jpeg",
+        "images": [
+           
+        ],
+        "links": [
+            "https://glip.gg",
+            "https://punksvsapes.com",
+            "https://ggtv.co"
+        ]
+    },
+    {
         "name": "Prime Minister's Office",
         "description": "Official app of the Indian Prime Minister's office",
         "extra_desc": "Built the official app of the Indian Prime Minister's office after winning a large contest in collaboration with Google and Government of India. This app gives citizens access to critical information about flagship programmes. In addition, the app provides an overview of the Prime Minister’s major initiatives, news and social media updates, all in 10 indian languages.",
@@ -404,6 +425,42 @@
             "https://github.com/naman14/PlayAnimations",
             "https://play.google.com/store/apps/details?id=com.naman14.playanimations"
             
+        ]
+    },
+
+    {
+        "name": "Winner - ETH Denver 2023",
+        "description": "DecentAI: Decentralised AI nodes network and zkbnbandroid: Android implementation for zkbnb APIs",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon",
+            "all"
+        ],
+        "images": [
+            "images/hackinout.jpg"
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
+        ]
+    },
+
+    {
+        "name": "Winner - ETH New York 2022",
+        "description": "Switch: Instant replay clip NFT drops and bidding for live viewers and pay per minute billing for live streams",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon",
+            "all"
+        ],
+        "images": [
+            "images/hackinout.jpg"
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
         ]
     },
 

@@ -16,11 +16,10 @@ const IndexPage = () => (
     <SEO title="Naman Dwivedi" keywords={[`Naman`, `Android`, `Timber`]} />
 
     <div style={{textAlign: 'left'}}> 
-      <p style={{fontSize:'20px'}}>Hi! I am <strong>Naman Dwivedi</strong> (<strong>naman14</strong>). I am a fullstack software engineer primarily working on Android. 
-      Currently, I am working at <strong>BharatPe</strong>. Previously, I worked at <strong>Doubtnut</strong> and <strong>Grofers</strong>. I graduated in 2018 from Delhi Techonological University.
+      <p style={{fontSize:'20px'}}>Hi! I am <strong>Naman Dwivedi</strong> (<strong>naman14</strong>). I am a software engineer working with Android and web3. 
+      Currently, I am working at <strong>Glip</strong>. Previously, I worked at <strong>BharatPe</strong>, <strong>Doubtnut</strong> and <strong>Grofers</strong>. I graduated in 2018 from Delhi Techonological University.
       I am an open source enthusiast and most of my work can be found on my <strong><a style={{textDecoration: 'none', color: '#000000'}} 
-      href="https://github.com/naman14">Github</a></strong>. I also work as a freelancer and if you have a project that you would like me to work on,
-      drop me a <a style={{textDecoration: 'none', color: '#000000'}} href="mailto:namandwivedi14@gmail.com"><strong>mail.</strong></a></p>
+      href="https://github.com/naman14">Github</a></strong>.</p>
     </div>
 
     <br/>
