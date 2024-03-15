@@ -1,8 +1,8 @@
 [
     {
-        "name": "Glip (ggtv)",
-        "description": "Android/Web3",
-        "extra_desc": "Building tools for creators and web3 community. Built on chain puzzle game punksVSapes, Glip Android gaming recorder and live streaming tool.",
+        "name": "Glip",
+        "description": "Web3/Game/Android. Building Xtremeverse, Web3 anime gaming universe and GameFi platform",
+        "extra_desc": "Also building BTX Battle Xtreme, anime mobile shooter game, built the Glip platform of 1M gamers community, and the best Android game recording and live streaming tool",
         "tags": [
             "work",
             "android",
@@ -15,8 +15,8 @@
            
         ],
         "links": [
+            "https://xtremeverse.xyz",
             "https://glip.gg",
-            "https://punksvsapes.com",
             "https://ggtv.co"
         ]
     },
@@ -427,6 +427,25 @@
             
         ]
     },
+
+    {
+        "name": "Winner - ETH New York 2023",
+        "description": "QuickConnect: Instantly view onchain social identities, showcase insights, recommendation score and connect with nearby users using ultrasound waves, built using AirStack",
+        "tags": [
+            "desktop",
+            "javascript",
+            "hackathon",
+            "all"
+        ],
+        "images": [
+            "images/hackinout.jpg"
+        ],
+        "links": [
+            "https://devfolio.co/submissions/player-known-battle-grounds",
+            "https://github.com/teamOSC/PKBG_AR"
+        ]
+    },
+
 
     {
         "name": "Winner - ETH Denver 2023",
