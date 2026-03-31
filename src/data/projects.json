@@ -1,8 +1,8 @@
 [
     {
         "name": "Glip",
-        "description": "Web3/Game/Android. Building Xtremeverse, Web3 anime gaming universe and GameFi platform",
-        "extra_desc": "Also building BTX Battle Xtreme, anime mobile shooter game, built the Glip platform of 1M gamers community, and the best Android game recording and live streaming tool",
+        "description": "Built the Glip platform of 1M gamers community, and the best Android game recording and live streaming tool.",
+        "extra_desc": "Also built BTX Battle Xtreme, anime mobile shooter game and Xtremeverse, Web3 anime gaming universe and GameFi platform",
         "tags": [
             "work",
             "android",
@@ -15,7 +15,6 @@
            
         ],
         "links": [
-            "https://xtremeverse.xyz",
             "https://glip.gg",
             "https://ggtv.co"
         ]
